@@ -1,0 +1,109 @@
+New log file opened at Sat Mar 21 16:28:16 JST 2015 by 401@Chori-3
+Taking next connection to: 49311
+New client attempting to connect on port: 49312-49311
+  Address = /192.168.43.189:49311
+This client on port 49312 has uuid fd6c51ee-43cf-4597-9196-ac70bf6aa1ef configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-fd6c51ee-43cf-4597-9196-ac70bf6aa1ef
+Taking next connection to: 49311
+New client attempting to connect on port: 49313-49311
+  Address = /192.168.43.189:49311
+Handshake exception on socket: 49313
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 49311
+New client attempting to connect on port: 49314-49311
+  Address = /192.168.43.189:49311
+This client on port 49314 has uuid c625b2e1-e0fd-4988-9494-ce564214f6d0 configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-fd6c51ee-43cf-4597-9196-ac70bf6aa1ef, activator-c625b2e1-e0fd-4988-9494-ce564214f6d0
+Taking next connection to: 49311
+New client attempting to connect on port: 49318-49311
+  Address = /192.168.43.189:49311
+Handshake exception on socket: 49318
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 49311
+New client attempting to connect on port: 49319-49311
+  Address = /192.168.43.189:49311
+This client on port 49319 has uuid 271a5ec1-ddd6-4cd0-b3bb-56a5e270e193 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: activator-fd6c51ee-43cf-4597-9196-ac70bf6aa1ef, activator-c625b2e1-e0fd-4988-9494-ce564214f6d0, play-fork-run-271a5ec1-ddd6-4cd0-b3bb-56a5e270e193
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49311
